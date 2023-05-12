@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+package-lock.json
+/coverage
+yarn-error.log
+npm-debug.log
+package-lock.log
+tmp
+config/local.yml
+
